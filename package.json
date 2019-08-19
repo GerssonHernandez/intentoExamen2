@@ -1,0 +1,17 @@
+{
+    "name": "examen1_progra_4",
+    "version": "1.0.0",
+    "description": "Examen 1 Programación 4",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server/server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ing. Yamil Uclés",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.6.9"
+    }
+}
